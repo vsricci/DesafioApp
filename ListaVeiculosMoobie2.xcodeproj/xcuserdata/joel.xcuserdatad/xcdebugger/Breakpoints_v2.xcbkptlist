@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListaVeiculosMoobie2/AppDelegate.swift"
+            timestampString = "525268538.689277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListaVeiculosMoobie2.AppDelegate.applicationDocumentsDirectory.getter : Foundation.URL"
+                  moduleName = "ListaVeiculosMoobie2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joel/Documents/pastaProjetosVinicius/ListaVeiculosMoobie2/ListaVeiculosMoobie2/AppDelegate.swift"
+                  timestampString = "525280290.362667"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListaVeiculosMoobie2.AppDelegate.applicationDocumentsDirectory.setter : Foundation.URL"
+                  moduleName = "ListaVeiculosMoobie2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joel/Documents/pastaProjetosVinicius/ListaVeiculosMoobie2/ListaVeiculosMoobie2/AppDelegate.swift"
+                  timestampString = "525280290.368688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListaVeiculosMoobie2.AppDelegate.(applicationDocumentsDirectory.getter : Foundation.URL).(closure #1)"
+                  moduleName = "ListaVeiculosMoobie2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joel/Documents/pastaProjetosVinicius/ListaVeiculosMoobie2/ListaVeiculosMoobie2/AppDelegate.swift"
+                  timestampString = "525280290.371384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListaVeiculosMoobie2.AppDelegate.init () -&gt; ListaVeiculosMoobie2.AppDelegate"
+                  moduleName = "ListaVeiculosMoobie2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joel/Documents/pastaProjetosVinicius/ListaVeiculosMoobie2/ListaVeiculosMoobie2/AppDelegate.swift"
+                  timestampString = "525280290.373586"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

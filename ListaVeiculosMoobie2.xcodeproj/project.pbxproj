@@ -15,6 +15,30 @@
 		5D7F1A911F4EF0F9007B138C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D7F1A8F1F4EF0F9007B138C /* LaunchScreen.storyboard */; };
 		5D7F1A9C1F4EF0F9007B138C /* ListaVeiculosMoobie2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1A9B1F4EF0F9007B138C /* ListaVeiculosMoobie2Tests.swift */; };
 		5D7F1AA71F4EF0F9007B138C /* ListaVeiculosMoobie2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AA61F4EF0F9007B138C /* ListaVeiculosMoobie2UITests.swift */; };
+		5D7F1ABA1F4EF472007B138C /* Cadastro.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D7F1AB91F4EF472007B138C /* Cadastro.storyboard */; };
+		5D7F1ABC1F4EF9B5007B138C /* CarroSalvo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D7F1ABB1F4EF9B5007B138C /* CarroSalvo.storyboard */; };
+		5D7F1ABE1F4EFAB0007B138C /* CarrosSalvosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1ABD1F4EFAB0007B138C /* CarrosSalvosTableViewController.swift */; };
+		5D7F1AC01F4EFAD7007B138C /* MarcaModelo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D7F1ABF1F4EFAD7007B138C /* MarcaModelo.storyboard */; };
+		5D7F1AC21F4EFC6C007B138C /* DetalheVeiculo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D7F1AC11F4EFC6C007B138C /* DetalheVeiculo.storyboard */; };
+		5D7F1AC41F4EFEEB007B138C /* DetalheVeiculoSalvo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D7F1AC31F4EFEEB007B138C /* DetalheVeiculoSalvo.storyboard */; };
+		5D7F1AC61F4F0578007B138C /* CadastroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AC51F4F0578007B138C /* CadastroViewController.swift */; };
+		5D7F1AC81F4F0810007B138C /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AC71F4F0810007B138C /* Usuario.swift */; };
+		5D7F1ACA1F4F0C56007B138C /* Carro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AC91F4F0C56007B138C /* Carro.swift */; };
+		5D7F1ACC1F4F0C67007B138C /* Marca.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1ACB1F4F0C67007B138C /* Marca.swift */; };
+		5D7F1ACE1F4F0C7F007B138C /* DetalheModelo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1ACD1F4F0C7F007B138C /* DetalheModelo.swift */; };
+		5D7F1AD01F4F0CAF007B138C /* Modelo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1ACF1F4F0CAF007B138C /* Modelo.swift */; };
+		5D7F1AD31F4F0D41007B138C /* CarroSalvoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AD21F4F0D41007B138C /* CarroSalvoTableViewCell.swift */; };
+		5D7F1AD51F4F1140007B138C /* MarcaModeloViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AD41F4F1140007B138C /* MarcaModeloViewController.swift */; };
+		5D7F1AD71F4F1168007B138C /* DetalheVeiculoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AD61F4F1168007B138C /* DetalheVeiculoViewController.swift */; };
+		5D7F1AD91F4F117E007B138C /* DetalheVeiculoSalvoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1AD81F4F117E007B138C /* DetalheVeiculoSalvoViewController.swift */; };
+		5D7F1ADB1F4F1A07007B138C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D7F1ADA1F4F1A07007B138C /* CardView.swift */; };
+		5DF590041F4F24D600B2E882 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5DF590031F4F24D600B2E882 /* GoogleService-Info.plist */; };
+		5DF590061F4F577800B2E882 /* PerfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF590051F4F577800B2E882 /* PerfilViewController.swift */; };
+		5DF590081F4F586800B2E882 /* Perfil.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DF590071F4F586800B2E882 /* Perfil.storyboard */; };
+		5DF5900B1F4F5F1B00B2E882 /* LoadImageFirebase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF5900A1F4F5F1B00B2E882 /* LoadImageFirebase.swift */; };
+		A49ACB19B8B1974202DB3E0A /* Pods_ListaVeiculosMoobie2UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EF2C73CBB67398706BEE32A /* Pods_ListaVeiculosMoobie2UITests.framework */; };
+		B103FB864C2012DEDDE039E3 /* Pods_ListaVeiculosMoobie2Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C2137C5565CB526DF248373 /* Pods_ListaVeiculosMoobie2Tests.framework */; };
+		FECC905C7F0BBB4E90493397 /* Pods_ListaVeiculosMoobie2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 61F8681E5ED8CF147C7345A0 /* Pods_ListaVeiculosMoobie2.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +59,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1AB337FC220D13F5DB3FEAC2 /* Pods-ListaVeiculosMoobie2Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListaVeiculosMoobie2Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ListaVeiculosMoobie2Tests/Pods-ListaVeiculosMoobie2Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		3C2137C5565CB526DF248373 /* Pods_ListaVeiculosMoobie2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ListaVeiculosMoobie2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5751D68F516E4EB8B0073B6F /* Pods-ListaVeiculosMoobie2UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListaVeiculosMoobie2UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ListaVeiculosMoobie2UITests/Pods-ListaVeiculosMoobie2UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5D7F1A801F4EF0F9007B138C /* ListaVeiculosMoobie2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ListaVeiculosMoobie2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D7F1A831F4EF0F9007B138C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D7F1A851F4EF0F9007B138C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +76,33 @@
 		5D7F1AA21F4EF0F9007B138C /* ListaVeiculosMoobie2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ListaVeiculosMoobie2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D7F1AA61F4EF0F9007B138C /* ListaVeiculosMoobie2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaVeiculosMoobie2UITests.swift; sourceTree = "<group>"; };
 		5D7F1AA81F4EF0F9007B138C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D7F1AB91F4EF472007B138C /* Cadastro.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Cadastro.storyboard; sourceTree = "<group>"; };
+		5D7F1ABB1F4EF9B5007B138C /* CarroSalvo.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = CarroSalvo.storyboard; sourceTree = "<group>"; };
+		5D7F1ABD1F4EFAB0007B138C /* CarrosSalvosTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarrosSalvosTableViewController.swift; sourceTree = "<group>"; };
+		5D7F1ABF1F4EFAD7007B138C /* MarcaModelo.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MarcaModelo.storyboard; sourceTree = "<group>"; };
+		5D7F1AC11F4EFC6C007B138C /* DetalheVeiculo.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = DetalheVeiculo.storyboard; sourceTree = "<group>"; };
+		5D7F1AC31F4EFEEB007B138C /* DetalheVeiculoSalvo.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = DetalheVeiculoSalvo.storyboard; sourceTree = "<group>"; };
+		5D7F1AC51F4F0578007B138C /* CadastroViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CadastroViewController.swift; sourceTree = "<group>"; };
+		5D7F1AC71F4F0810007B138C /* Usuario.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
+		5D7F1AC91F4F0C56007B138C /* Carro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Carro.swift; sourceTree = "<group>"; };
+		5D7F1ACB1F4F0C67007B138C /* Marca.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Marca.swift; sourceTree = "<group>"; };
+		5D7F1ACD1F4F0C7F007B138C /* DetalheModelo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalheModelo.swift; sourceTree = "<group>"; };
+		5D7F1ACF1F4F0CAF007B138C /* Modelo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modelo.swift; sourceTree = "<group>"; };
+		5D7F1AD21F4F0D41007B138C /* CarroSalvoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarroSalvoTableViewCell.swift; sourceTree = "<group>"; };
+		5D7F1AD41F4F1140007B138C /* MarcaModeloViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarcaModeloViewController.swift; sourceTree = "<group>"; };
+		5D7F1AD61F4F1168007B138C /* DetalheVeiculoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalheVeiculoViewController.swift; sourceTree = "<group>"; };
+		5D7F1AD81F4F117E007B138C /* DetalheVeiculoSalvoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalheVeiculoSalvoViewController.swift; sourceTree = "<group>"; };
+		5D7F1ADA1F4F1A07007B138C /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		5DBF1A82C726D480AF1AF5CC /* Pods-ListaVeiculosMoobie2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListaVeiculosMoobie2.release.xcconfig"; path = "Pods/Target Support Files/Pods-ListaVeiculosMoobie2/Pods-ListaVeiculosMoobie2.release.xcconfig"; sourceTree = "<group>"; };
+		5DF590031F4F24D600B2E882 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5DF590051F4F577800B2E882 /* PerfilViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PerfilViewController.swift; sourceTree = "<group>"; };
+		5DF590071F4F586800B2E882 /* Perfil.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Perfil.storyboard; sourceTree = "<group>"; };
+		5DF5900A1F4F5F1B00B2E882 /* LoadImageFirebase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadImageFirebase.swift; sourceTree = "<group>"; };
+		61F8681E5ED8CF147C7345A0 /* Pods_ListaVeiculosMoobie2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ListaVeiculosMoobie2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BE4EC6E0D32F585CBE64A4B /* Pods-ListaVeiculosMoobie2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListaVeiculosMoobie2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ListaVeiculosMoobie2/Pods-ListaVeiculosMoobie2.debug.xcconfig"; sourceTree = "<group>"; };
+		7EF2C73CBB67398706BEE32A /* Pods_ListaVeiculosMoobie2UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ListaVeiculosMoobie2UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		84418ED1A0E765E3CD53B5B3 /* Pods-ListaVeiculosMoobie2Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListaVeiculosMoobie2Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ListaVeiculosMoobie2Tests/Pods-ListaVeiculosMoobie2Tests.release.xcconfig"; sourceTree = "<group>"; };
+		BE2DDDC2E23AD30A1BA8DE99 /* Pods-ListaVeiculosMoobie2UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ListaVeiculosMoobie2UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ListaVeiculosMoobie2UITests/Pods-ListaVeiculosMoobie2UITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FECC905C7F0BBB4E90493397 /* Pods_ListaVeiculosMoobie2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B103FB864C2012DEDDE039E3 /* Pods_ListaVeiculosMoobie2Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +126,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A49ACB19B8B1974202DB3E0A /* Pods_ListaVeiculosMoobie2UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2BF8BE64EAAEA315051CF60A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				61F8681E5ED8CF147C7345A0 /* Pods_ListaVeiculosMoobie2.framework */,
+				3C2137C5565CB526DF248373 /* Pods_ListaVeiculosMoobie2Tests.framework */,
+				7EF2C73CBB67398706BEE32A /* Pods_ListaVeiculosMoobie2UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5D7F1A771F4EF0F8007B138C = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +150,8 @@
 				5D7F1A9A1F4EF0F9007B138C /* ListaVeiculosMoobie2Tests */,
 				5D7F1AA51F4EF0F9007B138C /* ListaVeiculosMoobie2UITests */,
 				5D7F1A811F4EF0F9007B138C /* Products */,
+				BD88613F30E6F2D1D6EAB807 /* Pods */,
+				2BF8BE64EAAEA315051CF60A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,9 +168,15 @@
 		5D7F1A821F4EF0F9007B138C /* ListaVeiculosMoobie2 */ = {
 			isa = PBXGroup;
 			children = (
+				5DF590091F4F5EE600B2E882 /* Extension */,
+				5DF590031F4F24D600B2E882 /* GoogleService-Info.plist */,
+				5D7F1AD11F4F0D1A007B138C /* Cell */,
+				5D7F1AB81F4EF3CB007B138C /* Views */,
+				5D7F1AB71F4EF3BE007B138C /* Utils */,
+				5D7F1AB61F4EF3B7007B138C /* Controllers */,
+				5D7F1AB51F4EF3B0007B138C /* Model */,
+				5D7F1AB41F4EF3AA007B138C /* Data */,
 				5D7F1A831F4EF0F9007B138C /* AppDelegate.swift */,
-				5D7F1A851F4EF0F9007B138C /* ViewController.swift */,
-				5D7F1A871F4EF0F9007B138C /* Main.storyboard */,
 				5D7F1A8D1F4EF0F9007B138C /* Assets.xcassets */,
 				5D7F1A8F1F4EF0F9007B138C /* LaunchScreen.storyboard */,
 				5D7F1A921F4EF0F9007B138C /* Info.plist */,
@@ -128,6 +203,90 @@
 			path = ListaVeiculosMoobie2UITests;
 			sourceTree = "<group>";
 		};
+		5D7F1AB41F4EF3AA007B138C /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		5D7F1AB51F4EF3B0007B138C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5D7F1AC71F4F0810007B138C /* Usuario.swift */,
+				5D7F1AC91F4F0C56007B138C /* Carro.swift */,
+				5D7F1ACB1F4F0C67007B138C /* Marca.swift */,
+				5D7F1ACD1F4F0C7F007B138C /* DetalheModelo.swift */,
+				5D7F1ACF1F4F0CAF007B138C /* Modelo.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		5D7F1AB61F4EF3B7007B138C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				5D7F1A851F4EF0F9007B138C /* ViewController.swift */,
+				5D7F1ABD1F4EFAB0007B138C /* CarrosSalvosTableViewController.swift */,
+				5D7F1AC51F4F0578007B138C /* CadastroViewController.swift */,
+				5D7F1AD41F4F1140007B138C /* MarcaModeloViewController.swift */,
+				5D7F1AD61F4F1168007B138C /* DetalheVeiculoViewController.swift */,
+				5D7F1AD81F4F117E007B138C /* DetalheVeiculoSalvoViewController.swift */,
+				5DF590051F4F577800B2E882 /* PerfilViewController.swift */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		5D7F1AB71F4EF3BE007B138C /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				5D7F1ADA1F4F1A07007B138C /* CardView.swift */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+		5D7F1AB81F4EF3CB007B138C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5D7F1A871F4EF0F9007B138C /* Main.storyboard */,
+				5D7F1AB91F4EF472007B138C /* Cadastro.storyboard */,
+				5D7F1ABB1F4EF9B5007B138C /* CarroSalvo.storyboard */,
+				5D7F1ABF1F4EFAD7007B138C /* MarcaModelo.storyboard */,
+				5D7F1AC11F4EFC6C007B138C /* DetalheVeiculo.storyboard */,
+				5D7F1AC31F4EFEEB007B138C /* DetalheVeiculoSalvo.storyboard */,
+				5DF590071F4F586800B2E882 /* Perfil.storyboard */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		5D7F1AD11F4F0D1A007B138C /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				5D7F1AD21F4F0D41007B138C /* CarroSalvoTableViewCell.swift */,
+			);
+			name = Cell;
+			sourceTree = "<group>";
+		};
+		5DF590091F4F5EE600B2E882 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				5DF5900A1F4F5F1B00B2E882 /* LoadImageFirebase.swift */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
+		BD88613F30E6F2D1D6EAB807 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6BE4EC6E0D32F585CBE64A4B /* Pods-ListaVeiculosMoobie2.debug.xcconfig */,
+				5DBF1A82C726D480AF1AF5CC /* Pods-ListaVeiculosMoobie2.release.xcconfig */,
+				1AB337FC220D13F5DB3FEAC2 /* Pods-ListaVeiculosMoobie2Tests.debug.xcconfig */,
+				84418ED1A0E765E3CD53B5B3 /* Pods-ListaVeiculosMoobie2Tests.release.xcconfig */,
+				5751D68F516E4EB8B0073B6F /* Pods-ListaVeiculosMoobie2UITests.debug.xcconfig */,
+				BE2DDDC2E23AD30A1BA8DE99 /* Pods-ListaVeiculosMoobie2UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +294,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5D7F1AAB1F4EF0F9007B138C /* Build configuration list for PBXNativeTarget "ListaVeiculosMoobie2" */;
 			buildPhases = (
+				2863D1381F24AB0FBC6D1F9D /* [CP] Check Pods Manifest.lock */,
 				5D7F1A7C1F4EF0F9007B138C /* Sources */,
 				5D7F1A7D1F4EF0F9007B138C /* Frameworks */,
 				5D7F1A7E1F4EF0F9007B138C /* Resources */,
+				DB266160B1C8181A73E29380 /* [CP] Embed Pods Frameworks */,
+				56ADF064E09840CC5831F6EE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -152,9 +314,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5D7F1AAE1F4EF0F9007B138C /* Build configuration list for PBXNativeTarget "ListaVeiculosMoobie2Tests" */;
 			buildPhases = (
+				A81449E5B322CF20DE25C8A3 /* [CP] Check Pods Manifest.lock */,
 				5D7F1A931F4EF0F9007B138C /* Sources */,
 				5D7F1A941F4EF0F9007B138C /* Frameworks */,
 				5D7F1A951F4EF0F9007B138C /* Resources */,
+				FC1A478F8B02103BF94BC634 /* [CP] Embed Pods Frameworks */,
+				FFB0D1224567CC247E9E4256 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -170,9 +335,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5D7F1AB11F4EF0F9007B138C /* Build configuration list for PBXNativeTarget "ListaVeiculosMoobie2UITests" */;
 			buildPhases = (
+				8EC4DB467E55FC6F4258A5FA /* [CP] Check Pods Manifest.lock */,
 				5D7F1A9E1F4EF0F9007B138C /* Sources */,
 				5D7F1A9F1F4EF0F9007B138C /* Frameworks */,
 				5D7F1AA01F4EF0F9007B138C /* Resources */,
+				72820332800760B3A75AB61A /* [CP] Embed Pods Frameworks */,
+				2BAE88BF248557CCE53C525E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -238,9 +406,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D7F1AC41F4EFEEB007B138C /* DetalheVeiculoSalvo.storyboard in Resources */,
 				5D7F1A911F4EF0F9007B138C /* LaunchScreen.storyboard in Resources */,
+				5DF590081F4F586800B2E882 /* Perfil.storyboard in Resources */,
+				5DF590041F4F24D600B2E882 /* GoogleService-Info.plist in Resources */,
 				5D7F1A8E1F4EF0F9007B138C /* Assets.xcassets in Resources */,
+				5D7F1AC21F4EFC6C007B138C /* DetalheVeiculo.storyboard in Resources */,
 				5D7F1A891F4EF0F9007B138C /* Main.storyboard in Resources */,
+				5D7F1ABA1F4EF472007B138C /* Cadastro.storyboard in Resources */,
+				5D7F1ABC1F4EF9B5007B138C /* CarroSalvo.storyboard in Resources */,
+				5D7F1AC01F4EFAD7007B138C /* MarcaModelo.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,14 +435,166 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2863D1381F24AB0FBC6D1F9D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		2BAE88BF248557CCE53C525E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ListaVeiculosMoobie2UITests/Pods-ListaVeiculosMoobie2UITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		56ADF064E09840CC5831F6EE /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ListaVeiculosMoobie2/Pods-ListaVeiculosMoobie2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		72820332800760B3A75AB61A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ListaVeiculosMoobie2UITests/Pods-ListaVeiculosMoobie2UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8EC4DB467E55FC6F4258A5FA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A81449E5B322CF20DE25C8A3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		DB266160B1C8181A73E29380 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ListaVeiculosMoobie2/Pods-ListaVeiculosMoobie2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FC1A478F8B02103BF94BC634 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ListaVeiculosMoobie2Tests/Pods-ListaVeiculosMoobie2Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FFB0D1224567CC247E9E4256 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ListaVeiculosMoobie2Tests/Pods-ListaVeiculosMoobie2Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5D7F1A7C1F4EF0F9007B138C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D7F1ACA1F4F0C56007B138C /* Carro.swift in Sources */,
 				5D7F1A861F4EF0F9007B138C /* ViewController.swift in Sources */,
+				5DF5900B1F4F5F1B00B2E882 /* LoadImageFirebase.swift in Sources */,
+				5D7F1AD91F4F117E007B138C /* DetalheVeiculoSalvoViewController.swift in Sources */,
+				5D7F1ACC1F4F0C67007B138C /* Marca.swift in Sources */,
+				5D7F1ADB1F4F1A07007B138C /* CardView.swift in Sources */,
+				5D7F1ABE1F4EFAB0007B138C /* CarrosSalvosTableViewController.swift in Sources */,
+				5DF590061F4F577800B2E882 /* PerfilViewController.swift in Sources */,
+				5D7F1AD71F4F1168007B138C /* DetalheVeiculoViewController.swift in Sources */,
+				5D7F1AC81F4F0810007B138C /* Usuario.swift in Sources */,
+				5D7F1AD51F4F1140007B138C /* MarcaModeloViewController.swift in Sources */,
 				5D7F1A8C1F4EF0F9007B138C /* ListaVeiculosMoobie2.xcdatamodeld in Sources */,
+				5D7F1AC61F4F0578007B138C /* CadastroViewController.swift in Sources */,
+				5D7F1ACE1F4F0C7F007B138C /* DetalheModelo.swift in Sources */,
 				5D7F1A841F4EF0F9007B138C /* AppDelegate.swift in Sources */,
+				5D7F1AD31F4F0D41007B138C /* CarroSalvoTableViewCell.swift in Sources */,
+				5D7F1AD01F4F0CAF007B138C /* Modelo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,7 +690,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -407,7 +734,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -417,10 +744,12 @@
 		};
 		5D7F1AAC1F4EF0F9007B138C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BE4EC6E0D32F585CBE64A4B /* Pods-ListaVeiculosMoobie2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 889286V7CX;
 				INFOPLIST_FILE = ListaVeiculosMoobie2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.vsricci.ListaVeiculosMoobie2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,10 +759,12 @@
 		};
 		5D7F1AAD1F4EF0F9007B138C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5DBF1A82C726D480AF1AF5CC /* Pods-ListaVeiculosMoobie2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 889286V7CX;
 				INFOPLIST_FILE = ListaVeiculosMoobie2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.vsricci.ListaVeiculosMoobie2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -443,6 +774,7 @@
 		};
 		5D7F1AAF1F4EF0F9007B138C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1AB337FC220D13F5DB3FEAC2 /* Pods-ListaVeiculosMoobie2Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -458,6 +790,7 @@
 		};
 		5D7F1AB01F4EF0F9007B138C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 84418ED1A0E765E3CD53B5B3 /* Pods-ListaVeiculosMoobie2Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -473,6 +806,7 @@
 		};
 		5D7F1AB21F4EF0F9007B138C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5751D68F516E4EB8B0073B6F /* Pods-ListaVeiculosMoobie2UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 889286V7CX;
@@ -487,6 +821,7 @@
 		};
 		5D7F1AB31F4EF0F9007B138C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE2DDDC2E23AD30A1BA8DE99 /* Pods-ListaVeiculosMoobie2UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 889286V7CX;
@@ -518,6 +853,7 @@
 				5D7F1AAD1F4EF0F9007B138C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D7F1AAE1F4EF0F9007B138C /* Build configuration list for PBXNativeTarget "ListaVeiculosMoobie2Tests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +862,7 @@
 				5D7F1AB01F4EF0F9007B138C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D7F1AB11F4EF0F9007B138C /* Build configuration list for PBXNativeTarget "ListaVeiculosMoobie2UITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +871,7 @@
 				5D7F1AB31F4EF0F9007B138C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

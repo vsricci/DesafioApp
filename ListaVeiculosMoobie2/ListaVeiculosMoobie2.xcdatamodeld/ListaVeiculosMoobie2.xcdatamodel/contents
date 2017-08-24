@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16F73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CarrosSalvos" representedClassName="CarrosSalvos" syncable="YES" codeGenerationType="class">
+        <attribute name="ano" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="codigoFibe" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="marca" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="modelo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taxa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="valor" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CarrosSalvos" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
 </model>
